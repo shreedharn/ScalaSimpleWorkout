@@ -3,3 +3,4 @@
 .worksheet/*
 bin/*
 /bin/
+.cache
